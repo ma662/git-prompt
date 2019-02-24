@@ -1,1 +1,1 @@
-C:\Program Files\Git\etc\profile.d\
+located in C:\Program Files\Git\etc\profile.d\
